@@ -1,6 +1,10 @@
 body{
-    padding: 0%;
+    padding: 2%;
     background-color: blanchedalmond;
+    border: 0ch;
     font-size: large;
     margin: 0%;
+}
+a{
+    text-align: center;
 }
