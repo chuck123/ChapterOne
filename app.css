@@ -5,6 +5,9 @@ body{
     font-size: large;
     margin: 0%;
 }
+p{
+    font-weight: 200;
+}
 a{
     text-align: center;
 }
