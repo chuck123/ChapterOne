@@ -6,7 +6,8 @@ body{
     margin: 0%;
 }
 p{
-    font-weight: 200;
+    display: block;
+    float: left;
 }
 a{
     text-align: center;
