@@ -12,3 +12,7 @@ p{
 a{
     text-align: center;
 }
+div{
+    width: auto;
+    height: auto;
+}
