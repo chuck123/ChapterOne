@@ -6,7 +6,7 @@ p{
     display: block;
     float: left;
 }
-a{
+a:hover{
     text-align: center;
 }
 img{
