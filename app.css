@@ -1,8 +1,5 @@
 body{
     padding: 2%;
-    background-color: blanchedalmond;
-    border: 0ch;
-    font-size: large;
     margin: 0%;
 }
 p{
@@ -11,6 +8,9 @@ p{
 }
 a{
     text-align: center;
+}
+img{
+    /* code here */
 }
 div{
     width: auto;
