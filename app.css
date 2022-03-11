@@ -1,12 +1,16 @@
 body{
-    background-color: blanchedalmond;
-    border: 0ch;
-    display: flex;
+    padding: 2%;
     margin: 0%;
 }
-
-a{
+p{
+    display: block;
+    float: left;
+}
+a:hover{
     text-align: center;
+}
+img{
+    /* code here */
 }
 div{
     width: auto;
