@@ -2,7 +2,7 @@ body{
     padding: 2%;
     margin: 0%;
 }
-p{
+p,h1{
     display: block;
     float: right;
 }
